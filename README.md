@@ -1,52 +1,105 @@
 <div align="center">
-  <h1> Desenvolvedor Ariel Brandon Giron Flores </h1>
+  <h1> Ariel Brandon Giron Flores</h1>
+  <h3>Full-Stack & Back-End Developer | .NET • Python • Java • Node.js</h3>
 </div>
 
 <p align="justify">
-  🎓 Graduated in Systems Analysis and Development - ADS <br>
-  🛠️ Technical degree in System Development <br>
-  💻 Currently skilled in Python, C#, C++, C, JavaScript, Node.JS <br>
-  🔧 Working with Full-Stack development <br>
+Desenvolvedor Full-Stack com experiência prática em construção de APIs robustas, automações inteligentes, aplicações web modernas e soluções orientadas à performance.  
+Atuo com foco em backend utilizando .NET, Python e Node.js, aliado a um domínio sólido em lógica, arquitetura limpa, engenharia de software e modelagem de bancos de dados relacionais e NoSQL.
 </p>
 
-<p align="justify">
-  ⚡ Fun fact: I write on the internet: <a href="https://www.dio.me/users/brandon_giron_flores">Check them out!</a> 🤖
-</p>
+---
 
---- 
-<div align="center"> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arielbrandon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </a>
+## 🚀 O que entrego como profissional
 
-  <div align="center">
-  <h3>GitHub Stats</h3>
-</div>
+- **APIs REST escaláveis e de alta performance** utilizando .NET, Node.js e padrões de arquitetura (SOLID, Repository, Service Layer)
+- **Aplicações full-stack completas**, do planejamento ao deploy (Angular, Node.js, .NET)
+- **Automação avançada em Python** para produtividade, integrações, testes, scraping e workflows complexos
+- **Modelagem e otimização de banco de dados** (SQL Server, MySQL, MariaDB, MongoDB)
+- **Containerização e ambientes Linux** com Docker, shell scripting e otimização de pipelines
+- **Código limpo, versionamento profissional (Git Flow)** e abordagem orientada a engenharia de software
+- Capacidade analítica e **resolução de problemas complexos** com foco em performance e segurança
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArielBrandonFlores&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArielBrandonFlores&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBrandonFlores&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+---
+
+## 🧠 Competências Técnicas Principais
+
+**Linguagens:**  
+C# • Java • Python • JavaScript • TypeScript • Node.js • C • C++
+
+**Frameworks & Ferramentas:**  
+.NET • Angular • Docker • Linux • Git • Bootstrap • SASS/SCSS • XAMPP • VSCode • Visual Studio
+
+**Bancos de Dados:**  
+MySQL • MariaDB • SQL Server • MongoDB • Excel (automação)
+
+**Áreas de Atuação:**  
+Backend • Full-Stack • Automação • DevOps
+
+---
+
+## ⭐ Projetos em Destaque
+
+### **1. API de Gerenciamento de Tarefas — .NET 9 + EF Core**
+- Arquitetura REST com boas práticas de Clean Architecture  
+- Migrations, LINQ avançado, filtors dinâmicos e paginação  
+- MySQL  
+- Documentação com Swagger
+- 🔗 *Repositório:* [https://github.com/ArielBrandonFlores/trilha-net-api-desafio.git]
+
+---
 
 <div align="center">
-  <h3>Tech Stack</h3>
+  <h3>📊 GitHub Stats</h3>
 </div>
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="JJava" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="JDocker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="JC#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
-  <img align="center" alt="JC++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArielBrandonFlores&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArielBrandonFlores&theme=tokyonight&hide_border=false"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBrandonFlores&theme=tokyonight&hide_border=false&layout=compact"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+</div>
+
+<div align="center"; style="display: inline_block"><br>
+
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="center" alt="mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> 
-  <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 </div>
- 
+
+---
+
+## 🔗 Onde me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/arielbrandon/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.dio.me/users/brandon_giron_flores" target="_blank">
+    <img src="https://img.shields.io/badge/DIO.me-000000?style=for-the-badge&logo=academia&logoColor=white">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <i>Aberto a oportunidades como Desenvolvedor Back-End, Full-Stack ou Trainee em Tecnologia.</i>
+</div>
