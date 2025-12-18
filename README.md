@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Ariel Brandon Giron Flores</h1>
-  <h3>Full-Stack & Back-End Developer | .NET • Python • Java • Node.js</h3>
+  <h3>Full-Stack & Back-End Developer | C# • Python • Node.js • Javascript</h3>
 </div>
 
 <p align="justify">
@@ -25,7 +25,7 @@ Atuo com foco em backend utilizando .NET, Python e Node.js, aliado a um domínio
 ## 🧠 Competências Técnicas Principais
 
 **Linguagens:**  
-C# • Java • Python • JavaScript • TypeScript • Node.js • C • C++
+C# • Python • JavaScript • Node.js • C • C++
 
 **Frameworks & Ferramentas:**  
 .NET • Angular • Docker • Linux • Git • Bootstrap • SASS/SCSS • XAMPP • VSCode • Visual Studio
@@ -34,13 +34,21 @@ C# • Java • Python • JavaScript • TypeScript • Node.js • C • C++
 MySQL • MariaDB • SQL Server • MongoDB • Excel (automação)
 
 **Áreas de Atuação:**  
-Backend • Full-Stack • Automação • DevOps
+Backend • Full-Stack • DevOps
 
 ---
 
 ## ⭐ Projetos em Destaque
 
-### **1. API de Gerenciamento de Tarefas — .NET 9 + EF Core**
+### **Sistema de Concessionária — API REST (.NET 9 + EF Core)**
+- Desenvolvimento de API REST com Minimal APIs em C#
+- Autenticação e autorização com JWT e controle de acesso por perfil
+- Entity Framework Core integrado ao MariaDB
+- CRUD de usuários e veículos, paginação e validações
+- Documentação da API com Swagger e testes automatizados com MSTest
+- 🔗 *Repositório:* [https://github.com/ArielBrandonFlores/minimal-api]
+
+### **Gerenciamento de Tarefas — API REST (.NET 9 + EF Core)**
 - Arquitetura REST com boas práticas de Clean Architecture  
 - Migrations, LINQ avançado, filtors dinâmicos e paginação  
 - MySQL  
@@ -67,7 +75,6 @@ Backend • Full-Stack • Automação • DevOps
 
 <div align="center"; style="display: inline_block"><br>
 
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
