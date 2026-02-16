@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Ariel Brandon Giron Flores</h1>
-  <h3>Full-Stack & Back-End Developer | C# • Python • Node.js • Javascript</h3>
+  <h3>Full-Stack & Back-End Developer | C# • Python • Java • Javascript</h3>
 </div>
 
 <p align="justify">
@@ -25,13 +25,13 @@ Atuo com foco em backend utilizando .NET, Python e Node.js, aliado a um domínio
 ## 🧠 Competências Técnicas Principais
 
 **Linguagens:**  
-C# • Python • JavaScript • Node.js
+C# • Python • JavaScript • Java
 
 **Frameworks & Ferramentas:**  
-.NET • Angular • React • Docker • Linux • Git • Bootstrap • SASS/SCSS • XAMPP • VSCode • Visual Studio
+.NET • Spring • Angular • React • Docker • Linux • Git • Bootstrap • SASS/SCSS • XAMPP • VSCode • Visual Studio
 
 **Bancos de Dados:**  
-MySQL • SQL Server • MongoDB
+MySQL • SQL Server • MongoDB • PostgreSQL
 
 **Áreas de Atuação:**  
 Backend • Full-Stack • DevOps
